@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @raghavan16
-- 👀 I’m interested in product development/Enhancement
-- 🌱 I’m currently learning PEGA
+- 👋 Hi, I’m @Raghava Raju 
+- 👀 I’m interested in product Development/Enhancement
+- 🌱 I’m currently learning Hadoop
 - 💞️ I’m looking to collaborate on android application development
 - 📫 How to reach me raghavraju516@gmail.com
 
